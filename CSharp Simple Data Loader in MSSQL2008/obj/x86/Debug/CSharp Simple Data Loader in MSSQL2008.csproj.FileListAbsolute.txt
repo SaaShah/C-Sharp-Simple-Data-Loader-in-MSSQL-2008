@@ -1,0 +1,9 @@
+D:\Dropbox\C Sharp Simple Data Loader in MSSQL 2008\CSharp Simple Data Loader in MSSQL2008\CSharp Simple Data Loader in MSSQL2008\bin\Debug\CSharp Simple Data Loader in MSSQL2008.exe
+D:\Dropbox\C Sharp Simple Data Loader in MSSQL 2008\CSharp Simple Data Loader in MSSQL2008\CSharp Simple Data Loader in MSSQL2008\bin\Debug\CSharp Simple Data Loader in MSSQL2008.pdb
+D:\Dropbox\C Sharp Simple Data Loader in MSSQL 2008\CSharp Simple Data Loader in MSSQL2008\CSharp Simple Data Loader in MSSQL2008\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Dropbox\C Sharp Simple Data Loader in MSSQL 2008\CSharp Simple Data Loader in MSSQL2008\CSharp Simple Data Loader in MSSQL2008\obj\x86\Debug\CSharp_Simple_Data_Loader_in_MSSQL2008.Form1.resources
+D:\Dropbox\C Sharp Simple Data Loader in MSSQL 2008\CSharp Simple Data Loader in MSSQL2008\CSharp Simple Data Loader in MSSQL2008\obj\x86\Debug\CSharp_Simple_Data_Loader_in_MSSQL2008.Properties.Resources.resources
+D:\Dropbox\C Sharp Simple Data Loader in MSSQL 2008\CSharp Simple Data Loader in MSSQL2008\CSharp Simple Data Loader in MSSQL2008\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Dropbox\C Sharp Simple Data Loader in MSSQL 2008\CSharp Simple Data Loader in MSSQL2008\CSharp Simple Data Loader in MSSQL2008\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Dropbox\C Sharp Simple Data Loader in MSSQL 2008\CSharp Simple Data Loader in MSSQL2008\CSharp Simple Data Loader in MSSQL2008\obj\x86\Debug\CSharp Simple Data Loader in MSSQL2008.exe
+D:\Dropbox\C Sharp Simple Data Loader in MSSQL 2008\CSharp Simple Data Loader in MSSQL2008\CSharp Simple Data Loader in MSSQL2008\obj\x86\Debug\CSharp Simple Data Loader in MSSQL2008.pdb
